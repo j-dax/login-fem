@@ -564,6 +564,14 @@ video {
   height: 100vh;
 }
 
+.min-w-\[100\%\] {
+  min-width: 100%;
+}
+
+.min-w-full {
+  min-width: 100%;
+}
+
 .min-w-max {
   min-width: -moz-max-content;
   min-width: max-content;
@@ -599,10 +607,6 @@ video {
 
 .self-center {
   align-self: center;
-}
-
-.text-nowrap {
-  text-wrap: nowrap;
 }
 
 .rounded-full {
