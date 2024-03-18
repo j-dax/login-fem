@@ -15,8 +15,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Built with
 
-- Semantic HTML5 markup
-- TailwindCSS, grid, flexbox, custom properties
+- Semantic HTML5 markup and ARIA
+- TailwindCSS, grid, flexbox
 
 ## Author
 
