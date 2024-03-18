@@ -11,7 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Hosted with github pages](https://j-dax.github.io/login-fem/)
+- [Hosted with github pages](https://j-dax.github.io/login-fem/index.html)
 
 ### Built with
 
