@@ -13,19 +13,19 @@
     <link rel="stylesheet" type="text/css" href="./dist/base.css" />
   </head>
   <body class="bg-slate-800 text-white p-4 grid h-screen place-items-center">
-    <div class="grid grid-cols-1 max-w-[360px] m-auto">
+    <main role="main" class="grid grid-cols-1 max-w-[360px] m-auto">
       <div class="bg-slate-700 rounded-xl flex flex-col p-4 gap-1">
         <img
           alt="A picture of the author"
           class="max-w-24 rounded-full self-center"
           src="./assets/images/avatar.jpeg"
         />
-        <p class="font-bold text-lg text-center">Matthew Piazza</p>
+        <h1 class="font-bold text-lg text-center">Matthew Piazza</h1>
         <p class="text-red-400 font-semibold text-center">Washington, USA</p>
         <p class="m-4 text-center">
           "Full-stack developer seeking new challenges."
         </p>
-        <div class="flex flex-col gap-4">
+        <nav role="navigation" class="flex flex-col gap-4">
           <a class="min-w-full" href="https://github.com/j-dax">
             <button
               class="bg-slate-600 p-2 min-w-full rounded-lg font-semibold hover:bg-red-400 hover:text-black"
@@ -57,8 +57,8 @@
               Frontend Mentor
             </button>
           </a>
-        </div>
+        </nav>
       </div>
-    </div>
+    </main>
   </body>
 </html>
